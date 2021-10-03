@@ -22,8 +22,9 @@ public class Line_Controller : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        for (int i = 0; i < points.Length; i++) {
+      /*  for (int i = 0; i < points.Length; i++) {
             linea.SetPosition(i, points[i].position);
         }
+      */
     }
 }
