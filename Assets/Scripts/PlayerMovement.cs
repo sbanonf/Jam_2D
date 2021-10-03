@@ -64,6 +64,7 @@ public class PlayerMovement : MonoBehaviour
                 {
                     aux[i] = 0;
                 }*/
+                //For, instanciar sprites y luego que tengan un ontrigger2d tal q desaparezcan.
                 Lineaaa.SetPositions(aux);
                 Lind_Renderer.SetActive(true);
 
