@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterController : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     int count = 0;
     int owo = 0;
